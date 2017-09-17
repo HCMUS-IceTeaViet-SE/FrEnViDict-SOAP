@@ -1,6 +1,0 @@
-D:\Coding\C#\Web\SOAP\SOAP\bin\SOAP.dll.config
-D:\Coding\C#\Web\SOAP\SOAP\bin\SOAP.dll
-D:\Coding\C#\Web\SOAP\SOAP\bin\SOAP.pdb
-D:\Coding\C#\Web\SOAP\SOAP\obj\Debug\SOAP.csprojResolveAssemblyReference.cache
-D:\Coding\C#\Web\SOAP\SOAP\obj\Debug\SOAP.dll
-D:\Coding\C#\Web\SOAP\SOAP\obj\Debug\SOAP.pdb

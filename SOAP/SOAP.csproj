@@ -52,6 +52,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\en_vi.xml" />
+    <Content Include="App_Data\fr_en.xml" />
+    <Content Include="App_Data\fr_vi.xml" />
     <Content Include="TranslationService.asmx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -61,9 +64,7 @@
       <DependentUpon>TranslationService.asmx</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

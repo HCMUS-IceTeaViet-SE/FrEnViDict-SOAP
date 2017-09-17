@@ -1,7 +1,0 @@
-D:\Coding\C#\Web\SOAP\FVDict\bin\Debug\FVDict.exe
-D:\Coding\C#\Web\SOAP\FVDict\bin\Debug\FVDict.pdb
-D:\Coding\C#\Web\SOAP\FVDict\obj\Debug\FVDict.csprojResolveAssemblyReference.cache
-D:\Coding\C#\Web\SOAP\FVDict\obj\Debug\FVDict.Properties.Resources.resources
-D:\Coding\C#\Web\SOAP\FVDict\obj\Debug\FVDict.csproj.GenerateResource.Cache
-D:\Coding\C#\Web\SOAP\FVDict\obj\Debug\FVDict.exe
-D:\Coding\C#\Web\SOAP\FVDict\obj\Debug\FVDict.pdb
